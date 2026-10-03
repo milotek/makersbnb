@@ -1,7 +1,7 @@
 ---
 
 <p align="center">
-    <img width="1080" height="720" src="https://files.catbox.moe/eiew9b.png">
+    <img width="1080" height="640" src="https://files.catbox.moe/eiew9b.png">
 </p>
 
 <h1 align="center">
